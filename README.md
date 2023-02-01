@@ -12,3 +12,7 @@ A fake virus built using python
 # How to run?
 
 Download  `YouAreAnIdiot.pyw` and `resources` folder. Then execute it
+
+# Music:
+https://www.youtube.com/watch?v=48rz8udZBmQ
+https://www.youtube.com/watch?v=hiRacdl02w4&t=26s
